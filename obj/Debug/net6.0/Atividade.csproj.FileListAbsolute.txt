@@ -1,0 +1,15 @@
+D:\NETO\CURSOS\SENAI\atividade\bin\Debug\net6.0\Atividade.exe
+D:\NETO\CURSOS\SENAI\atividade\bin\Debug\net6.0\Atividade.deps.json
+D:\NETO\CURSOS\SENAI\atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+D:\NETO\CURSOS\SENAI\atividade\bin\Debug\net6.0\Atividade.dll
+D:\NETO\CURSOS\SENAI\atividade\bin\Debug\net6.0\Atividade.pdb
+D:\NETO\CURSOS\SENAI\atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+D:\NETO\CURSOS\SENAI\atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\NETO\CURSOS\SENAI\atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+D:\NETO\CURSOS\SENAI\atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+D:\NETO\CURSOS\SENAI\atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+D:\NETO\CURSOS\SENAI\atividade\obj\Debug\net6.0\Atividade.dll
+D:\NETO\CURSOS\SENAI\atividade\obj\Debug\net6.0\refint\Atividade.dll
+D:\NETO\CURSOS\SENAI\atividade\obj\Debug\net6.0\Atividade.pdb
+D:\NETO\CURSOS\SENAI\atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+D:\NETO\CURSOS\SENAI\atividade\obj\Debug\net6.0\ref\Atividade.dll
